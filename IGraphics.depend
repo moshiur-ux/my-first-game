@@ -1,0 +1,373 @@
+# depslib dependency file v1.0
+1568229698 source:c:\users\asus\downloads\igraphics-master\asobu ka shinu.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1562528406 c:\users\asus\downloads\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1562528406 c:\users\asus\downloads\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1562528406 c:\users\asus\downloads\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1567828162 source:c:\users\asus\downloads\igraphics-master\full and final(practice).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1568119457 source:c:\users\asus\downloads\igraphics-master\score.cpp
+	"iGraphics.h"
+	<stdlib.h>
+	<time.h>
+
+1568228959 source:c:\users\asus\downloads\igraphics-master\asobu ka shinu(practice 1).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568269421 source:c:\101shafi\noshto\game-20190912t044542z-001\game\asobu ka shinu(main jeita banaisilam smooth kora chara).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 c:\101shafi\noshto\game-20190912t044542z-001\game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\101shafi\noshto\game-20190912t044542z-001\game\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\101shafi\noshto\game-20190912t044542z-001\game\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568289301 source:c:\101shafi\noshto\game-20190912t044542z-001\game\asobu ka shinu(smooth kora shoho).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568358004 source:c:\101shafi\noshto\game-20190912t044542z-001\game\nafee asobu-ka-shinusmooth-kora-shoho.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568366559 source:g:\new folder (2)\game\nafee asobu-ka-shinusmooth-kora-shoho.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 g:\new folder (2)\game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 g:\new folder (2)\game\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 g:\new folder (2)\game\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568366651 source:c:\101shafi\noshto\game\nafee asobu-ka-shinusmooth-kora-shoho.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 c:\101shafi\noshto\game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\101shafi\noshto\game\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\101shafi\noshto\game\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568392187 source:d:\ashobu ka shinu\game\nafee asobu-ka-shinusmooth-kora-shoho(minor bug fixes).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 d:\ashobu ka shinu\game\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 d:\ashobu ka shinu\game\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 d:\ashobu ka shinu\game\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568398292 source:c:\users\sharif hasan\desktop\term 1-1 project\nafee asobu-ka-shinusmooth-kora-shoho(minor bug fixes).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<windowsx.h>
+	<math.h>
+
+1568183620 c:\users\sharif hasan\desktop\term 1-1 project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1568183816 c:\users\sharif hasan\desktop\term 1-1 project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568183816 c:\users\sharif hasan\desktop\term 1-1 project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1578424476 source:c:\users\sharif hasan\desktop\term 1-1 project\imain.cpp
+	"include/iGraphics.h"
+	"include/base.inc.h"
+	"include/Button.h"
+	"include/render.h"
+	"bits/stdc++.h"
+
+1578326157 c:\users\sharif hasan\desktop\term 1-1 project\definition.h
+
+1578330377 source:c:\users\sharif hasan\desktop\term 1-1 project\class.base.cpp
+	<bits/stdc++.h>
+
+1578325174 source:c:\users\sharif hasan\desktop\term 1-1 project\definition.cpp
+
+1578324663 source:c:\users\sharif hasan\desktop\term 1-1 project\enemy.cpp
+
+1578324692 source:c:\users\sharif hasan\desktop\term 1-1 project\hero.cpp
+
+1578328713 c:\users\sharif hasan\desktop\term 1-1 project\class.base.cpp
+	<bits/stdc++.h>
+
+1578397818 c:\users\sharif hasan\desktop\term 1-1 project\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1578397897 source:c:\users\sharif hasan\desktop\term 1-1 project\src\igraphics.cpp
+	"iGraphics.h"
+
+1578398820 source:c:\users\sharif hasan\desktop\term 1-1 project\src\base.inc.cpp
+	"base.inc.h"
+	"iGraphics.h"
+
+1578398581 c:\users\sharif hasan\desktop\term 1-1 project\include\base.inc.h
+
+1578424551 source:c:\users\sharif hasan\desktop\term 1-1 project\src\button.cpp
+	"Button.h"
+	"iGraphics.h"
+	<bits/stdc++.h>
+
+1578424878 c:\users\sharif hasan\desktop\term 1-1 project\include\button.h
+	"GAMEELEMENTS.h"
+	<bits/stdc++.h>
+
+1578424906 source:c:\users\sharif hasan\desktop\term 1-1 project\src\render.cpp
+	"render.h"
+	"GAMEELEMENTS.h"
+	"Button.h"
+
+1578424959 c:\users\sharif hasan\desktop\term 1-1 project\include\render.h
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1578424437 c:\users\sharif hasan\desktop\term 1-1 project\include\gameelements.h
+
+1578424116 source:c:\users\sharif hasan\desktop\term 1-1 project\src\gameelements.cpp
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1578664722 source:c:\users\asus\desktop\cbproject\imain.cpp
+	"bits/stdc++.h"
+	"include/iGraphics.h"
+
+1578464127 c:\users\asus\desktop\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578568799 source:c:\users\asus\desktop\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+
+1578677844 source:g:\cbproject\imain.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"include/iGraphics.h"
+	<ctime>
+
+1578464128 g:\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578568800 source:g:\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+
+1580182904 source:i:\cbproject\imain.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"include/iGraphics.h"
+	<ctime>
+
+1578464128 i:\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578568800 source:i:\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+
+1581592514 source:c:\users\asus\desktop\dx ball\cbproject\imain.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"include/iGraphics.h"
+	<ctime>
+
+1578464128 c:\users\asus\desktop\dx ball\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578568800 source:c:\users\asus\desktop\dx ball\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+
+1581592514 source:e:\dx ball\cbproject\imain.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"include/iGraphics.h"
+	<ctime>
+
+1578464128 e:\dx ball\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578568800 source:e:\dx ball\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+

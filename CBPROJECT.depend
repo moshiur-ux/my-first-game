@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1578677843 source:c:\users\asus\desktop\cbproject\imain.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	"include/iGraphics.h"
+	<ctime>
+
+1578464127 c:\users\asus\desktop\cbproject\include\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<time.h>
+	<math.h>
+	"GL/glaux.h"
+
+1578398582 c:\users\asus\desktop\cbproject\include\base.inc.h
+
+1578424880 c:\users\asus\desktop\cbproject\include\button.h
+	"GAMEELEMENTS.h"
+	<bits/stdc++.h>
+
+1578424438 c:\users\asus\desktop\cbproject\include\gameelements.h
+
+1578424960 c:\users\asus\desktop\cbproject\include\render.h
+	"GAMEELEMENTS.h"
+	"bits/stdc++.h"
+
+1578568799 source:c:\users\asus\desktop\cbproject\src\igraphics.cpp
+	"../include/iGraphics.h"
+
